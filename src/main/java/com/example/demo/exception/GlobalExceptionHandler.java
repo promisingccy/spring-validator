@@ -1,6 +1,6 @@
 package com.example.demo.exception;
 
-import api.AjaxResult;
+import com.example.demo.api.AjaxResult;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.validation.BindException;
